@@ -1,10 +1,12 @@
-# Mission Driven AI Spellbook
+# Red Mage AI Spellbook
 
 Free, portable skills for builders who ship with intention, plain-markdown instructions that run in Claude Code, Cursor, Gemini CLI, or any coding agent.
 
 Eight skills. One question each. The full journey from "should we build this" to "can it last."
 
 Built by [Andrés at Red Mage](https://redmage.cc).
+
+Formerly the Mission Driven AI Spellbook ([andersthemagi/mission-driven-ai-spellbook](https://github.com/andersthemagi/mission-driven-ai-spellbook)), which stays up so existing install links keep working. New skills and fixes land here.
 
 ---
 
@@ -28,7 +30,7 @@ Built by [Andrés at Red Mage](https://redmage.cc).
 Have [Claude Code](https://claude.com/claude-code) (or any agent that reads SKILL.md files) and a codebase you shipped fast? This is the whole loop:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/andersthemagi/mission-driven-ai-spellbook/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/andersthemagi/red-mage-ai-spellbook/main/install.sh | bash
 cd your-project
 claude
 > /vibe-audit
@@ -44,12 +46,12 @@ Want a summary you can share without exposing your codebase? `/vibe-audit --demo
 
 **All eight skills:**
 ```bash
-curl -sSL https://raw.githubusercontent.com/andersthemagi/mission-driven-ai-spellbook/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/andersthemagi/red-mage-ai-spellbook/main/install.sh | bash
 ```
 
 **One skill at a time:**
 ```bash
-curl -sSL https://raw.githubusercontent.com/andersthemagi/mission-driven-ai-spellbook/main/install.sh | bash -s -- mission-check
+curl -sSL https://raw.githubusercontent.com/andersthemagi/red-mage-ai-spellbook/main/install.sh | bash -s -- mission-check
 ```
 
 Available skill names: `brief-check` `long-run` `mission-check` `prompt-brief` `rao-ready` `ship-check` `ship-plan` `vibe-audit`
@@ -76,7 +78,7 @@ The `examples.md` in each skill folder shows the target output shape, hand it to
 The skills improve as new failure patterns surface. To pull the latest, re-run the installer, it overwrites each skill with the current version (a plain copy, so your invocation never changes):
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/andersthemagi/mission-driven-ai-spellbook/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/andersthemagi/red-mage-ai-spellbook/main/install.sh | bash
 ```
 
 See [CHANGELOG.md](CHANGELOG.md) for what changed between versions; the toolkit version is in [VERSION](VERSION).

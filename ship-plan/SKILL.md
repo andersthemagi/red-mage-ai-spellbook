@@ -79,4 +79,4 @@ After these, re-run /ship-check and see where you land.
 
 ---
 
-_Part of the [Mission Driven AI Spellbook](https://github.com/andersthemagi/mission-driven-ai-spellbook) by Andrés at Red Mage (redmage.cc). Free to use and adapt. If it helps you, please keep the credit._
+_Part of the [Red Mage AI Spellbook](https://github.com/andersthemagi/red-mage-ai-spellbook) by Andrés at Red Mage (redmage.cc). Free to use and adapt. If it helps you, please keep the credit._

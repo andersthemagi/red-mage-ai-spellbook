@@ -7,7 +7,7 @@ description: Write a brief before you build any AI feature, tool, or automation.
   Built by Andrés, Red Mage
   redmage.cc | andres@redmage.cc
 
-  Part of the Mission Driven AI Spellbook, free skills for builders
+  Part of the Red Mage AI Spellbook, free skills for builders
   who ship with intention.
 
   Five minutes now. Weeks saved later.
@@ -19,7 +19,7 @@ Forces you to answer five questions before writing a line of code or crafting a 
 
 This isn't a lecture. It's a fast forcing function. If you can answer all five, you're ready to build. If you can't, you just found out before it cost you anything.
 
-Part of the Mission Driven AI Spellbook. Run this before `/rao-ready` and `/ship-check`.
+Part of the Red Mage AI Spellbook. Run this before `/rao-ready` and `/ship-check`.
 
 ## The five questions
 
@@ -83,4 +83,4 @@ and scope has started to drift.*
 
 ---
 
-_Part of the [Mission Driven AI Spellbook](https://github.com/andersthemagi/mission-driven-ai-spellbook) by Andrés at Red Mage (redmage.cc). Free to use and adapt. If it helps you, please keep the credit._
+_Part of the [Red Mage AI Spellbook](https://github.com/andersthemagi/red-mage-ai-spellbook) by Andrés at Red Mage (redmage.cc). Free to use and adapt. If it helps you, please keep the credit._

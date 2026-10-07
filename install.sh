@@ -1,11 +1,11 @@
 #!/bin/bash
-# Mission Driven AI Spellbook, installer
-# Usage: curl -sSL https://raw.githubusercontent.com/andersthemagi/mission-driven-ai-spellbook/main/install.sh | bash
+# Red Mage AI Spellbook, installer
+# Usage: curl -sSL https://raw.githubusercontent.com/andersthemagi/red-mage-ai-spellbook/main/install.sh | bash
 # Or install a single skill: ... | bash -s -- mission-check
 
 set -e
 
-REPO="https://github.com/andersthemagi/mission-driven-ai-spellbook"
+REPO="https://github.com/andersthemagi/red-mage-ai-spellbook"
 SKILLS_DIR="${CLAUDE_SKILLS_DIR:-$HOME/.claude/skills}"
 ALL_SKILLS="brief-check long-run mission-check prompt-brief rao-ready ship-check ship-plan vibe-audit"
 
@@ -34,6 +34,6 @@ else
     echo "Installed /$skill"
   done
   echo ""
-  echo "Mission Driven AI Spellbook installed to $SKILLS_DIR"
+  echo "Red Mage AI Spellbook installed to $SKILLS_DIR"
   echo "Invoke any skill with /skill-name in Claude Code."
 fi

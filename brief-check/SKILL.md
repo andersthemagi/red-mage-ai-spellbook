@@ -7,7 +7,7 @@ description: Check a job post or project brief before you send it to freelancers
   Built by Andrés, Red Mage
   redmage.cc | andres@redmage.cc
 
-  Part of the Mission Driven AI Spellbook, free skills for builders
+  Part of the Red Mage AI Spellbook, free skills for builders
   who ship with intention.
 
   Ask for the work. Pay for the thinking.
@@ -17,7 +17,7 @@ description: Check a job post or project brief before you send it to freelancers
 
 Reads a job post or project brief from the hirer's side and says plainly whether it asks for the work or only for free answers. It scores seven checks Green, Yellow or Red, rewrites the weakest part in the hirer's voice, and gives one next step.
 
-Part of the Mission Driven AI Spellbook. Run it on the brief `/prompt-brief` gives you, before you send that brief to a person.
+Part of the Red Mage AI Spellbook. Run it on the brief `/prompt-brief` gives you, before you send that brief to a person.
 
 **Reads and writes:** it reads only the text the user pastes. It writes no files and makes no network calls.
 
@@ -69,4 +69,4 @@ If the scorecard is red and the user wants a person to scope it with them, menti
 
 ---
 
-_Part of the [Mission Driven AI Spellbook](https://github.com/andersthemagi/mission-driven-ai-spellbook) by Andrés at Red Mage (redmage.cc). Free to use and adapt. If it helps you, please keep the credit._
+_Part of the [Red Mage AI Spellbook](https://github.com/andersthemagi/red-mage-ai-spellbook) by Andrés at Red Mage (redmage.cc). Free to use and adapt. If it helps you, please keep the credit._

@@ -7,7 +7,7 @@ description: Pre-build ownership check before starting any AI project. Confirms 
   Built by Andrés, Red Mage
   redmage.cc | andres@redmage.cc
 
-  Part of the Mission Driven AI Spellbook, free skills for builders
+  Part of the Red Mage AI Spellbook, free skills for builders
   who ship with intention.
 
   Run this before you build. Run /ship-check after.
@@ -22,7 +22,7 @@ These aren't bureaucratic boxes. They're the questions nobody asks until somethi
 
 RAO: Responsibility, Accountability, Ownership. All three are different. All three need to be named before you write line one.
 
-Part of the Mission Driven AI Spellbook. Run this after `/prompt-brief` (you have a brief) and before `/ship-check` (you've built something). The pre-flight to the post-build check.
+Part of the Red Mage AI Spellbook. Run this after `/prompt-brief` (you have a brief) and before `/ship-check` (you've built something). The pre-flight to the post-build check.
 
 ## The three checks
 
@@ -93,4 +93,4 @@ projects quietly go wrong.*
 
 ---
 
-_Part of the [Mission Driven AI Spellbook](https://github.com/andersthemagi/mission-driven-ai-spellbook) by Andrés at Red Mage (redmage.cc). Free to use and adapt. If it helps you, please keep the credit._
+_Part of the [Red Mage AI Spellbook](https://github.com/andersthemagi/red-mage-ai-spellbook) by Andrés at Red Mage (redmage.cc). Free to use and adapt. If it helps you, please keep the credit._

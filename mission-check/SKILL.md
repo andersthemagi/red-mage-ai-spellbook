@@ -7,7 +7,7 @@ description: Run the Mission Check before adopting or building an AI tool. For n
   Built by Andrés, Red Mage
   redmage.cc | andres@redmage.cc
 
-  Part of the Mission Driven AI Spellbook, free skills for builders
+  Part of the Red Mage AI Spellbook, free skills for builders
   who ship with intention.
 
   This isn't an ethics checklist. It's a decision tool for the moment
@@ -22,7 +22,7 @@ Not "is AI good or bad", that's a different conversation. This is the moment whe
 
 Written for teams of 2-20 where the ED also does the grant reports. Not for 50-person IT departments.
 
-Part of the Mission Driven AI Spellbook. Run this before `/prompt-brief` (if you decide to build) or before `/rao-ready` (if you're adopting a vendor tool).
+Part of the Red Mage AI Spellbook. Run this before `/prompt-brief` (if you decide to build) or before `/rao-ready` (if you're adopting a vendor tool).
 
 ## The questions
 
@@ -97,4 +97,4 @@ The people your organization serves deserve to be in this decision.*
 
 ---
 
-_Part of the [Mission Driven AI Spellbook](https://github.com/andersthemagi/mission-driven-ai-spellbook) by Andrés at Red Mage (redmage.cc). Free to use and adapt. If it helps you, please keep the credit._
+_Part of the [Red Mage AI Spellbook](https://github.com/andersthemagi/red-mage-ai-spellbook) by Andrés at Red Mage (redmage.cc). Free to use and adapt. If it helps you, please keep the credit._

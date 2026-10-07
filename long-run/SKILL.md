@@ -7,7 +7,7 @@ description: Run the Long-Run Check against any AI tool, workflow, or automation
   Built by Andrés, Red Mage
   redmage.cc | andres@redmage.cc
 
-  Part of the Mission Driven AI Spellbook, free skills for builders
+  Part of the Red Mage AI Spellbook, free skills for builders
   who ship with intention.
 
   This isn't a technical audit. It's a question about what happens
@@ -20,7 +20,7 @@ Asks the question most builders skip: can this tool keep running when you're not
 
 Not "does it work today", that's a different question. This is about year two. The version that exists after the grant ends, after the sprint, after you've moved on to the next thing. The users depending on it deserve that answer before you call it shipped.
 
-Part of the Mission Driven AI Spellbook. Pairs with `/ship-check` (intentionality audit) and `/rao-ready` (pre-build ownership check).
+Part of the Red Mage AI Spellbook. Pairs with `/ship-check` (intentionality audit) and `/rao-ready` (pre-build ownership check).
 
 ## Scoring
 
@@ -119,4 +119,4 @@ That's a different question, and the people depending on it deserve the answer.*
 
 ---
 
-_Part of the [Mission Driven AI Spellbook](https://github.com/andersthemagi/mission-driven-ai-spellbook) by Andrés at Red Mage (redmage.cc). Free to use and adapt. If it helps you, please keep the credit._
+_Part of the [Red Mage AI Spellbook](https://github.com/andersthemagi/red-mage-ai-spellbook) by Andrés at Red Mage (redmage.cc). Free to use and adapt. If it helps you, please keep the credit._

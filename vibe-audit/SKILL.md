@@ -7,7 +7,7 @@ description: Runs an evidence-based security and architecture risk audit against
   Built by Andrés, Red Mage (redmage.cc | andres@redmage.cc).
   Developed in collaboration with Matt "Kelly" Williams, Making Software Greener.
 
-  Part of the Mission Driven AI Spellbook, free skills for builders
+  Part of the Red Mage AI Spellbook, free skills for builders
   who ship with intention. Methodology v5 (see CHANGELOG.md).
 
   This skill reads code and reports what's actually there. If it can't
@@ -106,4 +106,4 @@ The demo summary never includes file paths, table names, route names, or anythin
 
 ---
 
-_Part of the [Mission Driven AI Spellbook](https://github.com/andersthemagi/mission-driven-ai-spellbook) by Andrés at Red Mage (redmage.cc), developed with Matt "Kelly" Williams at Making Software Greener. Free to use and adapt. If it helps you, please keep the credit._
+_Part of the [Red Mage AI Spellbook](https://github.com/andersthemagi/red-mage-ai-spellbook) by Andrés at Red Mage (redmage.cc), developed with Matt "Kelly" Williams at Making Software Greener. Free to use and adapt. If it helps you, please keep the credit._

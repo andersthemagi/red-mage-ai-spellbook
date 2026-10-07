@@ -1,12 +1,15 @@
 # Changelog
 
-Versions of the Mission Driven AI Spellbook, newest first. The toolkit is designed to be re-installed to update (see [Updating](README.md#updating)).
+Versions of the Red Mage AI Spellbook, newest first. The toolkit is designed to be re-installed to update (see [Updating](README.md#updating)).
 
 ## [1.2.0]
 
 ### Added
 - **`/brief-check`**, a hirer-side check for a job post or project brief. Scores seven checks (end state, price, deliverables, owner, work asked for before pay, round limit, access to private code or data) Green, Yellow or Red, says whether the brief asks for the work or only for free answers, rewrites the weakest part, and gives one next step. Reads only what the user pastes; writes nothing. Run from the applicant's side, the same checks list what to ask before spending time on someone else's brief.
 - No `examples.md` yet. Examples in this repo are real runs, so one is added after the skill has been used on a real brief.
+
+### Changed
+- Renamed from the Mission Driven AI Spellbook to the Red Mage AI Spellbook, in a new repository with the full history kept. The old repository stays up, with a pointer here. Skill names, including `/mission-check`, are unchanged.
 
 ## [1.1.0]
 
